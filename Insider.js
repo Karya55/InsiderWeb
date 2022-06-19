@@ -179,7 +179,7 @@ class = "modal" >
     <
     div class = "modal-content" >
     <
-    div class = "Be-First" >
+    div class = "contact-form" >
     <
     span class = "close" > & times; < /span> <
 form action = "/" >
